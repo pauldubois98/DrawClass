@@ -19,8 +19,8 @@ Files will be saved on the server; thanks for your contribution!
 
 Files will be downloaded to your own computer/phone, for you own use. The files are named "[image_class][timestamp].png".
 
-- Square: https://mics-lab.github.io/DrawClass/no_server/square.html
-- Circle: https://mics-lab.github.io/DrawClass/no_server/circle.html
-- Triangle: https://mics-lab.github.io/DrawClass/no_server/triangle.html
-- Star: https://mics-lab.github.io/DrawClass/no_server/star.html
-- Other: https://mics-lab.github.io/DrawClass/no_server/other.html
+- Square: https://pauldubois98.github.io/DrawClass/no_server/square.html
+- Circle: https://pauldubois98.github.io/DrawClass/no_server/circle.html
+- Triangle: https://pauldubois98.github.io/DrawClass/no_server/triangle.html
+- Star: https://pauldubois98.github.io/DrawClass/no_server/star.html
+- Other: https://pauldubois98.github.io/DrawClass/no_server/other.html
